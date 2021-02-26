@@ -1,0 +1,2 @@
+# School-Management-System-OOP
+Developed an JAVA application based on OOP concepts to manage a school in terms of an admin operator which comprises of features such as add, delete and update record of an individual, generate result of student in terms of transcript, generate salary slip of registered employee or staff, assigning courses to teacher and student and database is used as Microsoft Access.
